@@ -57,6 +57,6 @@ Other features -
 33. Custom Mouse - 2 divs that follow the mouse (with delay)
 34. Mui icons
 35. Seo + Code modularity and reusability.
-36. Hosted using netlify, netlify.toml file.
+36. Hosted using netlify.
 37. Gradient footer - gradient animation
 38. Added toasts - react-toastify for every action.
