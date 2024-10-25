@@ -1,6 +1,7 @@
 ## Deployed App
 
-Click to View : [https://cryptolysis.netlify.app/](https://cryptolysis.netlify.app/)
+Click to View:- Netlify : [https://cryptolysis.netlify.app/](https://cryptolysis.netlify.app/)
+                Vercel : [https://cryptolysis-react-a7fzyxubk-shantanuchangles-projects.vercel.app/watchlist](https://cryptolysis-react-a7fzyxubk-shantanuchangles-projects.vercel.app/watchlist)
 
 ## Available Scripts
 
